@@ -1,4 +1,4 @@
-# Supplementary materials for "Projection onto Minkowski Sums with Application to Constrained Learning" to appear in ICML 2019
+# Supplementary materials for "Projection onto Minkowski Sums with Application to Constrained Learning" to appear in ICML 2019 by Kenneth Lange, Joong-Ho Won, and Jason Xu
 
 ## Overview
 - SLEP MATLAB toolbox (SLEP-master.zip)
